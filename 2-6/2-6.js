@@ -7,7 +7,7 @@ let name = prompt("What's your name?","");
 
 //alert( `hello ${"name"}` );
 
-alert( `${name}, your name is awesome!` ); // ?
+alert( `${name}, you are awesome!` ); // ?
 
 
 //alert("${1}"); 
