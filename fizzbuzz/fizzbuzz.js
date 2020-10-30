@@ -21,6 +21,7 @@ for (let i=1;i<=100;i++) {
      //show i
   }
  ptag.innerHTML+= "<br>";
+ ptag.innerHTML+= "<br>";
 }
   //}
 //buzzWork();
