@@ -1,5 +1,6 @@
 "use strict"
 
+//the ptag statement belwo
 let ptag=document.getElementById("para");
 
 //function buzzWork () {
