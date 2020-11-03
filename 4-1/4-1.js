@@ -36,11 +36,12 @@ schedule ["8:30"] = "morning";
 alert( isEmpty(schedule) )*/
 
 //task 3
-let salaries = {
+/*let salaries = {
   John: 100,
   Ann: 160,
   Pete: 130
 }
+*/
 
 
 
@@ -195,4 +196,29 @@ alert( `g's value is ${g}` ); // ?
 */
 
 //alert("${1}"); 
+
+// before the call
+let menu = {
+  width: 200,
+  height: 300,
+  title: "My menu"
+};
+
+function multiplyNumeric (obj) {
+if key==typ
+for(let key in obj) {
+obj[key] *= 2,
+
+}
+
+
+
+
+
+
+multiplyNumeric(menu);
+
+
+
+
 
